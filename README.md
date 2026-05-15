@@ -1,14 +1,15 @@
 <!-- ════════════════════ ANIMATED HERO ════════════════════ -->
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=12,20,2,8&height=240&section=header&text=ARZAM%20MEHROOZ&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=SENIOR%20SALESFORCE%20DEVELOPER%20%E2%80%A2%20APEX%20%E2%80%A2%20LWC%20%E2%80%A2%20MULESOFT&descSize=18&descAlignY=68&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=12,20,2,8&height=240&section=header&text=ARZAM%20MEHROOZ&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=SENIOR%20DEVOPS%20ENGINEER%20%E2%80%A2%20AWS%20%E2%80%A2%20KUBERNETES%20%E2%80%A2%20TERRAFORM&descSize=18&descAlignY=68&animation=fadeIn)
+
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2600&pause=800&color=00A1E0&center=true&vCenter=true&width=900&height=40&lines=Apex+%E2%80%A2+Lightning+Web+Components+%E2%80%A2+CPQ;MuleSoft+%E2%80%A2+Service+Cloud+%E2%80%A2+Einstein;version-controlled+%E2%80%A2+test-driven+%E2%80%A2+release-disciplined" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2600&pause=800&color=00A1E0&center=true&vCenter=true&width=900&height=40&lines=AWS+%E2%80%A2+Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+Vault;multi-region+%E2%80%A2+ArgoCD+%E2%80%A2+Argo+Rollouts;automated+%E2%80%A2+observable+%E2%80%A2+resilient" />
 
 <br/>
 
-[![Email](https://img.shields.io/badge/✦_arzam.mehrooz-00A1E0?style=for-the-badge&labelColor=0c2340)](mailto:arzam.mehrooz@example.com)
+[![Email](https://img.shields.io/badge/✦_arzammehrooz%40gmail.com-00A1E0?style=for-the-badge&labelColor=0c2340)](mailto:arzammehrooz@gmail.com)
 [![Phone](https://img.shields.io/badge/✦_+1_681_308_3853-EC4899?style=for-the-badge&labelColor=0c2340)](#)
 [![NY](https://img.shields.io/badge/✦_New_York_USA-A78BFA?style=for-the-badge&labelColor=0c2340)](#)
 [![Open](https://img.shields.io/badge/✦_OPEN_TO_ROLES-22C55E?style=for-the-badge&labelColor=0c2340)](#)
@@ -25,32 +26,32 @@
 <tr>
 <td align="center" width="20%">
 
-### `7+`
+### `11+`
 <sub>YEARS<br/>SHIPPING</sub>
 
 </td>
 <td align="center" width="20%">
 
 ### `3`
-<sub>INDUSTRIES<br/>SaaS · Healthcare · Enterprise</sub>
+<sub>CLOUDS<br/>AWS · GCP · Azure</sub>
 
 </td>
 <td align="center" width="20%">
 
-### `5★`
-<sub>SALESFORCE<br/>CERTIFICATIONS</sub>
+### `4★`
+<sub>AWS · CNCF<br/>HashiCorp CERTS</sub>
 
 </td>
 <td align="center" width="20%">
 
-### `12+`
-<sub>ENTERPRISE<br/>INTEGRATIONS</sub>
+### `Multi-Region`
+<sub>EKS<br/>ArgoCD GitOps</sub>
 
 </td>
 <td align="center" width="20%">
 
-### `99%`
-<sub>RELEASE<br/>SUCCESS RATE</sub>
+### `SRE`
+<sub>FinOps<br/>DevSecOps</sub>
 
 </td>
 </tr>
@@ -68,13 +69,13 @@
 <tr>
 <td width="65%" valign="top">
 
-> **Salesforce that earns its license cost.**
+> **Cloud infrastructure that scales itself, observes itself, and recovers itself.**
 
-Seven years in the messy middle of enterprise CRM. Most of the work has been **rescuing orgs** that grew organically, accumulated debt, and needed someone who could mix **Apex, LWC, MuleSoft, and a real DevOps discipline** to make the platform actually serve the business again.
+Eleven years building automated cloud platforms, CI/CD systems, and scalable Kubernetes infrastructure for **enterprise** and **SaaS** environments. Strong with **AWS, Terraform, Kubernetes, Vault, GitHub Actions**, and cloud-native automation.
 
-Currently leading platform development at **DreamLabsDigital**. Previously delivered for **Slalom** and **Appirio** clients across SaaS, healthcare, and enterprise.
+Currently leading SRE and infrastructure at **Clodovatech**. Previously **HashiCorp** internal platform and **Rackspace Technology** managed cloud delivery.
 
-I care about three boring habits: **version control everything**, **write the test before the trigger**, **never ship an integration without a contract**.
+I care about three boring habits: **everything in version control**, **policy-as-code in CI**, **observability before incidents**.
 
 </td>
 <td width="35%" valign="top">
@@ -82,13 +83,14 @@ I care about three boring habits: **version control everything**, **write the te
 #### ⚙️ &nbsp; CURRENTLY
 
 ```yaml
-role:     Sr. Salesforce Developer
-company:  DreamLabsDigital
+role:     Sr. DevOps Engineer
+company:  Clodovatech
 focus:
-  - Apex + LWC platforms
-  - MuleSoft integrations
-  - Copado release engineering
-mode:     remote (EST)
+  - Multi-region EKS
+  - Terraform IaC
+  - ArgoCD GitOps
+  - Datadog SRE
+mode:     San Francisco / remote
 ```
 
 </td>
@@ -107,60 +109,60 @@ mode:     remote (EST)
 
 <div align="center">
 
-### 🛒
+### ⎈
 #### `CASE_01`
-**Enterprise CPQ Automation**
+**Multi-Region EKS Platform**
 
 </div>
 
 > **PROBLEM**
-> Brittle mix of spreadsheets, email approvals, and tribal pricing knowledge.
+> Monolith-shaped workloads sprawled across single-region accounts with manual deployments.
 
 > **WORK**
-> Custom CPQ on **Apex + LWC** with rule-based approvals, configurable tiers, and a clean quoting flow wired into Sales Cloud.
+> Architected EKS clusters across multiple AWS regions. **Argo Rollouts** + **GitOps** for progressive delivery; Terraform-managed everything.
 
 > **OUTCOME**
-> Quote generation became repeatable. Approvals stopped being a bottleneck.
+> Distributed microservices at scale, safe blue/green and canary rollouts, predictable releases.
 
 </td>
 <td width="33%" valign="top">
 
 <div align="center">
 
-### 🔌
+### 📐
 #### `CASE_02`
-**CRM Integration Framework**
+**Terraform IaC Modernization**
 
 </div>
 
 > **PROBLEM**
-> One-off connections between Salesforce, NetSuite, Marketo, and Oracle ERP — different patterns, different failure modes.
+> Cloud resources provisioned manually across multi-account AWS, drift everywhere, no review trail.
 
 > **WORK**
-> **MuleSoft-mediated framework** with consistent error handling, retries, bidirectional sync, and full audit logging.
+> Migrated everything into **Terraform-managed modules**. Stood up **Atlantis** PR-review workflows. Reusable modules across teams.
 
 > **OUTCOME**
-> Predictable data flows. On-call stopped chasing weekly sync failures.
+> New environments spin up in minutes, every change reviewed, drift eliminated.
 
 </td>
 <td width="33%" valign="top">
 
 <div align="center">
 
-### 💬
+### 👁
 #### `CASE_03`
-**Service Cloud Modernization**
+**Observability & FinOps**
 
 </div>
 
 > **PROBLEM**
-> Service Cloud was set up but underused. Reps drowned in repetitive cases; no self-service path.
+> No single pane of glass, alert fatigue, and runaway cloud spend.
 
 > **WORK**
-> **Service Cloud** triage and escalation flows + **Experience Cloud** self-service for top recurring cases.
+> Centralized **Datadog + PagerDuty** observability stack on top of cloud-native sources. **FinOps** tagging governance and rightsizing.
 
 > **OUTCOME**
-> Case resolution times dropped. Self-service deflection went up.
+> Faster RCA, calmer on-call, significant annual cloud-spend reduction.
 
 </td>
 </tr>
@@ -178,23 +180,24 @@ mode:     remote (EST)
 
 ###### `2022 → now`
 
-### `▶` DreamLabsDigital
-<sub>Remote, USA</sub>
+### `▶` Clodovatech
+<sub>San Francisco, CA</sub>
 
-**Senior Salesforce Developer**
+**Senior DevOps Engineer**
 
 </td>
 <td valign="top" width="78%">
 
-Leading Salesforce platform work across sales, service, marketing, and operations.
+Leading cloud infrastructure + SRE for distributed microservices across multi-region AWS.
 
-`Apex` `LWC` `Flow Builder` `Salesforce DX` `CPQ` `Approvals` `NetSuite` `HubSpot` `Marketo` `Copado` `GitHub`
+`EKS` `Argo Rollouts` `Terraform` `Datadog` `PagerDuty` `FinOps` `GitHub Actions` `ArgoCD`
 
-— Custom CRM automation and scalable CPQ on Apex + LWC
-— Enterprise integrations with NetSuite, HubSpot, Marketo, REST systems
-— Lead routing, opportunity tracking, customer engagement workflows
-— CI / CD via Copado + GitHub + Salesforce DX
-— Reusable Lightning components + custom APIs for modernization
+— Architected EKS infrastructure supporting high-volume enterprise workloads
+— Progressive deployment with Argo Rollouts + automated infrastructure workflows
+— Centralized observability via Datadog + PagerDuty + cloud-native monitoring
+— IaC transformation migrating manual resources → Terraform-managed environments
+— FinOps optimization reducing annual infra spend significantly
+— Strengthened cloud governance + reliability across platform / security / dev teams
 
 </td>
 </tr>
@@ -202,25 +205,25 @@ Leading Salesforce platform work across sales, service, marketing, and operation
 <tr>
 <td valign="top" width="22%">
 
-###### `2020 → 2022`
+###### `2018 → 2022`
 
-### `▶` Slalom
-<sub>New York, NY</sub>
+### `▶` HashiCorp
+<sub>San Francisco, CA</sub>
 
-**Salesforce Developer**
+**Cloud Platform Engineer**
 
 </td>
 <td valign="top" width="78%">
 
-Salesforce implementations for healthcare, finance, and enterprise clients.
+Cloud-native platform infrastructure for internal engineering and dev teams.
 
-`Apex` `LWC` `Triggers` `Batch Apex` `Service Cloud` `Experience Cloud` `Oracle ERP` `Azure` `Marketing Cloud`
+`Kubernetes` `Vault` `Terraform` `GitHub Actions` `Multi-Tenancy` `Network Policies`
 
-— LWC, Apex services, triggers, batch jobs, declarative automation
-— Service Cloud + Experience Cloud for self-service and case management
-— Integrations with Oracle ERP, Azure services, third-party APIs
-— Marketing Cloud automation + campaign tracking
-— Reusable deployment templates + testing frameworks
+— Multi-tenant Kubernetes with namespace isolation + policy enforcement
+— Vault-based secrets management with automated certificate provisioning
+— Reusable Terraform modules and cloud automation templates
+— Legacy CI → GitHub Actions migration improving pipeline performance
+— Developer enablement through platform automation + tooling
 
 </td>
 </tr>
@@ -228,25 +231,25 @@ Salesforce implementations for healthcare, finance, and enterprise clients.
 <tr>
 <td valign="top" width="22%">
 
-###### `2018 → 2020`
+###### `2014 → 2018`
 
-### `▶` Appirio
-<sub>Indianapolis, IN</sub>
+### `▶` Rackspace Technology
+<sub>Austin, TX</sub>
 
-**Salesforce Admin / Developer**
+**Cloud Engineer**
 
 </td>
 <td valign="top" width="78%">
 
-Salesforce administration, configuration, and workflow automation for enterprise teams.
+AWS and Azure cloud transformation for healthcare, e-commerce, and enterprise clients.
 
-`Apex` `Visualforce` `Data Loader` `Sales Cloud` `Service Cloud` `Security Model`
+`AWS` `Azure` `Ansible` `CloudFormation` `Compliance` `Monitoring`
 
-— Custom Apex classes, Visualforce, reports, dashboards, approvals
-— Data migration + modernization via Data Loader + ETL
-— Sales Cloud + Service Cloud configuration aligned with business processes
-— Security controls: roles, profiles, permission sets, sharing rules
-— Release management, sandbox deployments, user training
+— Delivered AWS / Azure cloud transformation projects
+— Designed secure cloud environments aligned with compliance + operations
+— Built Ansible + CloudFormation automation for provisioning + config mgmt
+— Centralized monitoring + alerting improving SLA compliance
+— Supported cloud migrations, optimization, and managed operations
 
 </td>
 </tr>
@@ -262,74 +265,72 @@ Salesforce administration, configuration, and workflow automation for enterprise
 <tr>
 <td width="50%" valign="top">
 
-#### ☁️ &nbsp; Salesforce Clouds
+#### ☁️ &nbsp; Cloud Platforms
 
-![Sales Cloud](https://img.shields.io/badge/Sales_Cloud-00A1E0?style=for-the-badge&logoColor=white)
-![Service Cloud](https://img.shields.io/badge/Service_Cloud-00A1E0?style=for-the-badge)
-![Marketing Cloud](https://img.shields.io/badge/Marketing_Cloud-00A1E0?style=for-the-badge)
-![Experience Cloud](https://img.shields.io/badge/Experience_Cloud-00A1E0?style=for-the-badge)
-![CPQ](https://img.shields.io/badge/CPQ-00A1E0?style=for-the-badge)
-![Health Cloud](https://img.shields.io/badge/Health_Cloud-00A1E0?style=for-the-badge)
-![Tableau CRM](https://img.shields.io/badge/Tableau_CRM-00A1E0?style=for-the-badge)
-![SF DX](https://img.shields.io/badge/Salesforce_DX-00A1E0?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-#### 💻 &nbsp; Development
+#### ⎈ &nbsp; Containers & Orchestration
 
-![Apex](https://img.shields.io/badge/Apex-1798c1?style=for-the-badge)
-![LWC](https://img.shields.io/badge/Lightning_Web_Components-1798c1?style=for-the-badge)
-![Visualforce](https://img.shields.io/badge/Visualforce-1798c1?style=for-the-badge)
-![SOQL](https://img.shields.io/badge/SOQL_/_SOSL-1798c1?style=for-the-badge)
-![Flow](https://img.shields.io/badge/Flow_Builder-1798c1?style=for-the-badge)
-![Triggers](https://img.shields.io/badge/Triggers_+_Batch-1798c1?style=for-the-badge)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=black)
+![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoRO](https://img.shields.io/badge/Argo_Rollouts-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🔌 &nbsp; Integrations
+#### 📐 &nbsp; IaC & Automation
 
-![REST](https://img.shields.io/badge/REST_APIs-0EA5E9?style=for-the-badge)
-![SOAP](https://img.shields.io/badge/SOAP_APIs-0EA5E9?style=for-the-badge)
-![MuleSoft](https://img.shields.io/badge/MuleSoft-0EA5E9?style=for-the-badge)
-![NetSuite](https://img.shields.io/badge/NetSuite-0EA5E9?style=for-the-badge)
-![HubSpot](https://img.shields.io/badge/HubSpot-0EA5E9?style=for-the-badge)
-![Marketo](https://img.shields.io/badge/Marketo-0EA5E9?style=for-the-badge)
-![Oracle ERP](https://img.shields.io/badge/Oracle_ERP-0EA5E9?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-0EA5E9?style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Atlantis](https://img.shields.io/badge/Atlantis-0F4C81?style=for-the-badge)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-#### 🚀 &nbsp; DevOps & AI
+#### 🔄 &nbsp; CI/CD & Dev Platforms
 
-![Copado](https://img.shields.io/badge/Copado-7C3AED?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI/CD-7C3AED?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-7C3AED?style=for-the-badge)
-![Einstein](https://img.shields.io/badge/Einstein_Analytics-F59E0B?style=for-the-badge)
-![Lead Scoring](https://img.shields.io/badge/Einstein_Lead_Scoring-F59E0B?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-7C3AED?style=for-the-badge)
+![GHA](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 👁 &nbsp; Monitoring & Reliability
+
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white)
+![Rootly](https://img.shields.io/badge/Rootly-7C3AED?style=for-the-badge)
+![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛡️ &nbsp; Security & Compliance
+
+![IAM](https://img.shields.io/badge/IAM-DD0031?style=for-the-badge)
+![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
+![NetPol](https://img.shields.io/badge/Network_Policies-326CE5?style=for-the-badge)
+![HIPAA](https://img.shields.io/badge/HIPAA-22C55E?style=for-the-badge)
+![SOC 2](https://img.shields.io/badge/SOC_2-22C55E?style=for-the-badge)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-EC4899?style=for-the-badge)
 
 </td>
 </tr>
 </table>
-
----
-
-<!-- ════════════════════ CERTS ════════════════════ -->
-
-## ◆ &nbsp; The wall
-
-<div align="center">
-
-[![PDII](https://img.shields.io/badge/Salesforce-Platform_Developer_II-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=0c2340)](#)
-[![PDI](https://img.shields.io/badge/Salesforce-Platform_Developer_I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=0c2340)](#)
-
-[![Admin](https://img.shields.io/badge/Salesforce-Administrator-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=0c2340)](#)
-[![Sales Cons](https://img.shields.io/badge/Salesforce-Sales_Cloud_Consultant-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=0c2340)](#)
-[![JS Dev](https://img.shields.io/badge/Salesforce-JavaScript_Developer_I-F7DF1E?style=for-the-badge&logo=salesforce&logoColor=black&...
+̴...
